@@ -1,6 +1,6 @@
 # Projeto Bankboost
 
-<img src="./img/projeto-bankboost.png">
+<img src="./projeto-bankboost.png">
 
 Mais um projeto saindo do forno! 🔥
 
